@@ -1,6 +1,6 @@
 # Test Case Samples
 
-Here are a few examples of Test Cases that I wrote while working on previous projects.
+Here are a few examples of Test Cases that I wrote while studying on a QA course.
 
 -------------------
 
